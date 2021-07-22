@@ -2,7 +2,7 @@
 
 ### Hi there  👋
 
--   🔭  I’m currently working on a flutter Project   <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" alt="Coder GIF" width="250" height="200" align= "right">
+  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" alt="Coder GIF" width="250" height="200" align= "right">
 -   🌱  I’m currently learning flutter
 -   💬  Ask me about android dev and any tech related stuff
 -   📫  How to reach me: Instagram- [@amit.gupta007](https://www.instagram.com/amit.gupta007/) ||  Twitter- [@AmitCode77](https://twitter.com/AmitCode77) 
